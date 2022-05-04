@@ -19,3 +19,7 @@ git push -u origin main
 git remote add origin https://github.com/andrejobbs/modulogit.git
 git branch -M main
 git push -u origin main
+
+
+git push origin :teste =remove o branch q foi adicionado no Github
+git revert --no-edit= reverte o ultimo commit 
