@@ -23,3 +23,8 @@ git push -u origin main
 
 git push origin :teste =remove o branch q foi adicionado no Github
 git revert --no-edit= reverte o ultimo commit 
+git branch -D teste =deleta o branch tanto localmente quanto no servidor
+git pull origin main =pega o dados remotos e trazem para o local
+git clone "URL" para clonar/ lebrando de escolher uma pasta antes
+fork no github para editar outros projetos
+git remote -v =para ver o origin 
